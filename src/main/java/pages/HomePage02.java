@@ -36,6 +36,8 @@ public class HomePage02 {
 	}
 	
 	public void Profile1() {
+		String wb=WelcomeButton.getText();
+		System.out.println(wb);
 		  WelcomeButton.click();
 	  }
 	
