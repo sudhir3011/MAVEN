@@ -21,4 +21,5 @@ public class HomeTest extends BaseTest {
 	public void Logout2() {
 		hp.Logout1();
 	}
+	
 }

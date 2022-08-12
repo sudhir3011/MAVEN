@@ -6,14 +6,6 @@
   </listeners>
   <test thread-count="5" name="Test(failed)" verbose="0">
     <classes>
-      <class name="tests.HomeTest02">
-        <methods>
-          <include name="Verify2"/>
-          <include name="HomeObject"/>
-          <include name="init"/>
-          <include name="tearDown"/>
-        </methods>
-      </class> <!-- tests.HomeTest02 -->
       <class name="tests.LoginTest">
         <methods>
           <include name="initObject"/>

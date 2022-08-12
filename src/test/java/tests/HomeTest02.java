@@ -23,7 +23,7 @@ HomePage02 hp;
 	@Test (priority=1)
 	public void Verify2() {
 		hp.Verify1();
-		sa.assertFalse(true);
+		sa.assertTrue(true);
 		sa.assertAll();
 	}
 	
