@@ -27,6 +27,7 @@ public class HomeTest extends BaseTest {
 	}
 	@Test (priority=5)
 	public void empty1() {
+		System.out.println("test done");
 		
 	}
 	
