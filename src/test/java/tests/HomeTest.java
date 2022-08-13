@@ -30,10 +30,5 @@ public class HomeTest extends BaseTest {
 		System.out.println("test done");
 		
 	}
-	@Test (priority=6)
-	public void empty2() {
-		
-	}
 	
 	}
-
