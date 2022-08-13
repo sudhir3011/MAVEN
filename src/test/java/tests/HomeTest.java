@@ -32,6 +32,7 @@ public class HomeTest extends BaseTest {
 	}
 	@Test (priority=6)
 	public void empty2() {
+		System.out.println("jai bharat");
 		
 	}
 	
