@@ -23,9 +23,9 @@ public class HomeTest extends BaseTest {
 	}
 	@Test (priority=4)
 	public void empty(){
-		
+		System.out.println("logout done");
 	}
-		
+	
 	}
 	
 
