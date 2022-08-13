@@ -29,6 +29,10 @@ public class HomeTest extends BaseTest {
 	public void empty1() {
 		
 	}
+	@Test (priority=6)
+	public void empty2() {
+		
+	}
 	
 	}
 	
