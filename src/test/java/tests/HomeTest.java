@@ -22,8 +22,12 @@ public class HomeTest extends BaseTest {
 		hp.Logout1();
 	}
 	@Test (priority=4)
-	public void empty(){
+	public void empty() {
 		System.out.println("logout done");
+	}
+	@Test (priority=5)
+	public void empty1() {
+		
 	}
 	
 	}
